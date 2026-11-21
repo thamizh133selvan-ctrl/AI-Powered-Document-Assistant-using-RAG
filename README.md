@@ -119,7 +119,7 @@ AI Powered PDF Assistant Using RAG/
    ```
 
 4. **Configure your API Key:**
-   Copy `.env.example` to `.env` and set your Groq key:
+   Create a `.env` file in the project root and set your Groq key:
    ```env
    GROQ_API_KEY=gsk_your_actual_groq_api_key_here
    ```
